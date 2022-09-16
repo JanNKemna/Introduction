@@ -1,0 +1,20 @@
+# group exercise 1 22-09-15
+
+int1 = int(input("Please give me an integer: "))
+int2 = int(input("And second one: "))
+int3 = int(input("And third one: "))
+int4 = int(input("And fourth one: "))
+int5 = int(input("And fifth one: "))
+
+res1 = num1
+res1 += num2
+print("addition: "+str(res1))
+res1 = num1
+res1 -= num2
+print("substraction: "+str(res1))
+res1 = num1
+res1 /= num2
+print("division: "+str(res1))
+res1 = num1
+res1 *= num2
+print("multiplication: "+str(res1))
