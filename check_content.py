@@ -1,6 +1,5 @@
 # Exercise 61, checking lists for content
 
-
 list1 = list(range(2,3,2))
 list2 = ["apple", "pear", "orange", "fig", "grape", "banana", "peach"]
 list3 = ["flour", "milk", "eggs", "salt", "butter", "sugar", "chocolate"]
